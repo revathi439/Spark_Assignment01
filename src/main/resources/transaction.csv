@@ -1,0 +1,8 @@
+Transaction_ID,Product_ID,UserID,Price,Product_Description
+1001,101,A,100,Bottle
+1002,102,B,200,chair
+1003,103,C,300,pen
+1003,103,C,400,book
+1005,105,E,500,calculator
+1006,106,F,600,pencil
+1007,107,G,700,Cycle
